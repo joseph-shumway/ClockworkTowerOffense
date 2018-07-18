@@ -1,0 +1,14 @@
+// Exported skin weight map file
+// 
+Tower	Root	Tower_Root.iff
+Tower	Large_Gears	Tower_Large_Gears.iff
+Tower	Small_Gears	Tower_Small_Gears.iff
+Tower	RM_Track_Gear	Tower_RM_Track_Gear.iff
+Tower	RR_Track_Gear	Tower_RR_Track_Gear.iff
+Tower	RF_Track_Gear	Tower_RF_Track_Gear.iff
+Tower	Panel_1	Tower_Panel_1.iff
+Tower	Panel_2	Tower_Panel_2.iff
+Tower	LM_Track_Gear	Tower_LM_Track_Gear.iff
+Tower	LR_Track_Gear	Tower_LR_Track_Gear.iff
+Tower	LF_Track_Gear	Tower_LF_Track_Gear.iff
+Tower	Mortar	Tower_Mortar.iff
